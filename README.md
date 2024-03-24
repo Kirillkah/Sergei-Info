@@ -64,19 +64,7 @@
 									<div class="build-ico-button">
 										<div class="build-ico-os">
 											<img alt="Windows" src="https://yt3.googleusercontent.com/G4nIrjoFO2tJfoGUpcXfwWVSq1nVacUXFMpvwp3RjzAld2at6B3zBdcMDu9DeabIcGIuL8cIYA=s176-c-k-c0x00ffffff-no-rj" style='height: 100%; width: 100%; object-fit: contain'/>
-<a href=https://www.youtube.com/@Papirosik>
-<span>Канал создателя сайта</span>
-</a>											<img alt="Linux" 												src="https://yt3.googleusercontent.com/kNVnrml9Bz3pXhpRQwg5DmmkWzWQkBgvqsMBuUmGDaQ4hi3BuJu_Hu_rpL-nb5mWmQICMEAw7Q=s176-c-k-c0x00ffffff-no-rj" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
+
+							<img alt="Linux" 												src="https://yt3.googleusercontent.com/kNVnrml9Bz3pXhpRQwg5DmmkWzWQkBgvqsMBuUmGDaQ4hi3BuJu_Hu_rpL-nb5mWmQICMEAw7Q=s176-c-k-c0x00ffffff-no-rj" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
 <h1>Если не хочешь стать свинкой подпишись!</h1>
-											<img alt="FreeBSD" src="https://i.ytimg.com/vi/30-3AkgdzTM/maxresdefault.jpg" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
-										</div>
-									</div>
-									<a href="https://www.youtube.com/@SERGEI_233">
-									<div class="build-tx1-button">
-										<span>Я Здесь:)</span>
-										<span class="build-tx2-label">233</span>
-									</div>
-									</a>
-								
-</body>
-</html>
+											<img alt="FreeBSD" 
