@@ -67,4 +67,4 @@
 
 							<img alt="Linux" 												src="https://yt3.googleusercontent.com/kNVnrml9Bz3pXhpRQwg5DmmkWzWQkBgvqsMBuUmGDaQ4hi3BuJu_Hu_rpL-nb5mWmQICMEAw7Q=s176-c-k-c0x00ffffff-no-rj" style='height: 100%; width: 100%; object-fit: contain; display:none;'/>
 <h1>Если не хочешь стать свинкой подпишись!</h1>
-											<img alt="FreeBSD" 
+											 
