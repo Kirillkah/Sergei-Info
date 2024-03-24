@@ -51,7 +51,7 @@
 						<div class='landing-ico-logo'>
 						</div>
 						<div class='landing-tx1-heading pulsate'>
-							<h1>I Good Youtober<br>
+							<h1>Мощный сайт для сильных людей<br>
 							 </h1>
 						</div>
 						<div class='landing-tx2-heading'>
